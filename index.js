@@ -8,7 +8,6 @@ function writeCards( namesArray, event ) {
     return thankYouCards
   }
   
-  
   function countDown( startingNumber ) {
     while ( startingNumber > 0 ) {
       console.log( startingNumber );
